@@ -9,7 +9,7 @@ The two main objectives of this project is to build an article summarizer and ap
 
 BBC News Summary: This dataset contains 417 text files of BBC from 2004 to 2005 and 5 summaries are provided for each article. The dataset is available on [Kaggle.](https://www.kaggle.com/pariza/bbc-news-summary#BBC%20News%20Summary.rar)
 
-Tweets from 2004 to 2005: Twitter API will be used to request tweets which were posted during 2004 to 2005.
+Tweets: Twitter API will be used to request tweets which were posted during 2004 to 2005.
 
 ### Known Unknowns
 
